@@ -30,7 +30,7 @@ Java 8
 
 Ensure you have the following installed:
 
-Java 11+
+Java 8
 
 Maven
 
