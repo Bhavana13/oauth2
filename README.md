@@ -38,7 +38,7 @@ A GitHub OAuth2 Client ID & Client Secret
 
 2️⃣ Clone the Repository
 
- git clone https://github.com/your-username/your-repo.git
+ git clone https://github.com/Bhavana13/oauth2
  cd your-repo
 
 3️⃣ Configure OAuth2 in application.yml
