@@ -22,7 +22,7 @@ Spring Security OAuth2 Client
 
 GitHub OAuth2 Provider
 
-Java 11+
+Java 8
 
 🚀 Getting Started
 
